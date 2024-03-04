@@ -1,0 +1,7 @@
+﻿  account.cpp
+  function.cpp
+D:\tdt\OOP_VS\banking_system\function.cpp(182,9): warning C4101: 'pos': unreferenced local variable
+  main.cpp
+D:\tdt\OOP_VS\banking_system\main.cpp(58,10): warning C4101: 'wit': unreferenced local variable
+  Generating Code...
+  banking_system.vcxproj -> D:\tdt\OOP_VS\banking_system\x64\Debug\banking_system.exe
